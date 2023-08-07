@@ -24,12 +24,19 @@ public enum REGION {
 
         }
     },
-    BISHKEK("АШЛЯНФУ"){
+   CHYI ("АШЛЯНФУ"){
         @Override
         public void metodq() {
 
         }},
     BATKEN("АЙГУЛ ГУЛУ"){
+        @Override
+        public void metodq() {
+
+        }
+
+    },
+    TALAS("ТАШ РАБАТ"){
         @Override
         public void metodq() {
 

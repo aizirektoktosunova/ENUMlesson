@@ -26,9 +26,10 @@ public class Main {
                 case OSH -> System.out.println("SULAIMAN TOO");
                 case NARYN -> System.out.println("АЙГУЛ ГУЛУ");
                 case YSYKKUL -> System.out.println("KOL");
-                case BISHKEK -> System.out.println("АШЛЯНФу");
+                case CHYI -> System.out.println("БУРАНА");
                 case DJALALABAD -> System.out.println("ARSLANBAB");
                 case BATKEN -> System.out.println("ОРУК");
+                case TALAS -> System.out.println("ТАШ РАБАТ");
                 default -> System.out.println("МЫНДАЙ ОБЛАСТЬ ЖОК");
             }
         }
